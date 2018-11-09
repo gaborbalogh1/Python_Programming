@@ -6,7 +6,7 @@ This Repository is for practicing programming in Python 3 and PyCharm\Eclipse ed
 1. Basic Syntax and Hellow World! in Python.
 2. Variables,Loops
 3. Class in Python
-4.__Innit__ method
+4. __Innit__ method 
 5. Basic Calculator
 6. Libraries based on:
 - https://pythontips.com/2013/07/30/20-python-libraries-you-cant-live-without/
