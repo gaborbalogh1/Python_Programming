@@ -1,0 +1,15 @@
+INSTUPMain
+/Users/Gabor/eclipse-workspace/Python3/EcxeltoXML/Main.py
+INFOS:&&1|1|2|0|3|6|7&&2|4|2|0|3|10|5&&2|5|2|0|3|28|5&&2|6|2|0|3|57|5&&2|7|2|0|3|78|5&&2|8|2|0|3|93|5&&2|9|2|0|3|105|5&&2|10|2|0|3|118|5&&2|11|2|0|3|132|5&&2|12|2|0|3|152|5
+read_xml=11
+write_excel=12
+prompt_for_execution_option=5
+parse_root=9
+/Users/Gabor/eclipse-workspace/Python3/EcxeltoXML/Main.py=3
+read_excel_file=6
+parse_xml=7
+parse_root2=8
+set_def_directory=4
+CharVar=1
+compare_file_names=10
+Main=2

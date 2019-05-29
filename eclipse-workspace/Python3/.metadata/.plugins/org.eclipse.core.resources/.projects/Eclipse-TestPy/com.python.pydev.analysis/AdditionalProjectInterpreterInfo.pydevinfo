@@ -1,0 +1,46 @@
+-- VERSION_5
+-- START DISKCACHE_2
+/Users/Gabor/eclipse-workspace/Python3/.metadata/.plugins/org.eclipse.core.resources/.projects/Eclipse-TestPy/com.python.pydev.analysis/v2_indexcache
+DataEntryForm|1550780464000000000|/Users/Gabor/eclipse-workspace/Python3/Eclipse-TestPy/DataEntryForm.py
+src.Main|1549648081000000000|/Users/Gabor/eclipse-workspace/Python3/Eclipse-TestPy/src/Main.py
+main|1552814465000000000|/Users/Gabor/eclipse-workspace/Python3/Eclipse-TestPy/main.py
+CheckFolderSize|1553847209000000000|/Users/Gabor/eclipse-workspace/Python3/Eclipse-TestPy/CheckFolderSize.py
+src.HelloWorld|1549919651000000000|/Users/Gabor/eclipse-workspace/Python3/Eclipse-TestPy/src/HelloWorld.py
+-- END DISKCACHE
+-- START DICTIONARY
+14
+9=/Users/Gabor/eclipse-workspace/Python3/Eclipse-TestPy/src/HelloWorld.py
+3=/Users/Gabor/eclipse-workspace/Python3/Eclipse-TestPy/CheckFolderSize.py
+2=DataEntryForm
+13=HelloApp.__init__
+6=src.Main
+8=main
+7=/Users/Gabor/eclipse-workspace/Python3/Eclipse-TestPy/main.py
+4=CheckFolderSize
+5=/Users/Gabor/eclipse-workspace/Python3/Eclipse-TestPy/src/Main.py
+11=DataEntry_Form
+12=HelloApp
+14=DataEntry_Form.__init__
+1=/Users/Gabor/eclipse-workspace/Python3/Eclipse-TestPy/DataEntryForm.py
+10=src.HelloWorld
+-- END DICTIONARY
+-- START TREE 1
+8
+dat|1|DataEntry_Form!1^4#7*17@
+dir|1|dirs!3^4#1*35@
+dis|1|diskinfo!3^5#1*35@
+dri|1|drive!3^7#1*35@
+hel|2|HelloApp!5^8#7*49@HelloApp!7^5#7*65@
+mai|3|main!7^23#5*66@main!1^24#5*18@main!5^28#5*50@
+msg|1|msg!9^18#5*82@
+roo|1|root!9^12#1*83@
+-- END TREE
+-- START TREE 2
+6
+__i|3|__init__!11&1^6#9*18@__init__!12&7^7#9*66@__init__!12&5^10#9*50@
+add|1|ADD_BTN!11&1^17#9*18@
+haw|2|hawaii_hello!12&7^19#9*66@hawaii_hello!12&5^24#9*50@
+lab|3|label!13&7^9#9*67@label!14&1^8#9*19@label!13&5^12#9*51@
+rem|1|REMOVE_BTN!11&1^20#9*18@
+tex|2|texas_hello!12&5^21#9*50@text_hello!12&7^16#9*66@
+-- END TREE

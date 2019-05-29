@@ -1,0 +1,27 @@
+-- VERSION_5
+-- START DISKCACHE_2
+/Users/Gabor/eclipse-workspace/Python3/.metadata/.plugins/org.eclipse.core.resources/.projects/EcxeltoXML/com.python.pydev.analysis/v2_indexcache
+Main|1558725589000000000|/Users/Gabor/eclipse-workspace/Python3/EcxeltoXML/Main.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+1=/Users/Gabor/eclipse-workspace/Python3/EcxeltoXML/Main.py
+2=Main
+-- END DICTIONARY
+-- START TREE 1
+11
+ask|2|ask_for_input!1^164#9*19@ask_for_input2!1^159#9*19@
+com|1|compare_file_names!1^74#5*18@
+exc|1|excel_file!1^172#9*19@
+f_p|1|f_path2!1^173#9*19@
+fil|2|file_to_write!1^160#9*19@file_to_parse!1^169#9*19@
+get|1|get_os_version!1^9#5*18@
+mes|1|message!1^151#5*19@
+par|1|parse_xml!1^47#5*18@
+rea|2|read_xml!1^88#5*18@read_excel_file!1^27#5*18@
+wri|2|write_excel!1^108#5*18@write_file!1^154#9*19@
+xml|2|xml_file_read!1^156#9*19@xml_file!1^166#9*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,24 @@
+
+public class MysteriousAlgorithm {
+ 
+    public static void main(String[] args) {
+        int n = 15;
+        boolean[] a = new boolean[n + 1];
+        for (int i = 2; i <= n; i++) {
+            a[i] = true;
+        }
+        for (int i = 2; i * i <= n; i++) {
+            if (a[i]) {
+                for (int j = i; i * j <= n; j++) {
+                    a[i * j] = false;
+                }
+            }
+        }
+        for (int i = 2; i <= n; i++) {
+            if (a[i]) {
+                System.out.println(i);
+            }
+        }
+    }
+ 
+}

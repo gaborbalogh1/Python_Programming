@@ -1,0 +1,1 @@
+([('Main', '/Users/Gabor/PycharmProjects/ExceltoXML/dist/Main', 'EXECUTABLE')],)

@@ -1,0 +1,7 @@
+import pandas as pd
+
+
+
+file = 'XML Template.xlsx'
+
+xl = pd.ExcelFile(file)
